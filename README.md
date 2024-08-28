@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GvsSriRam/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/GvsSriRam/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/GvsSriRam/DSA/tree/master/0015-3sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GvsSriRam/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/GvsSriRam/DSA/tree/master/0015-3sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Greedy
 |  |
@@ -29,5 +31,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/GvsSriRam/DSA/tree/master/0015-3sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
