@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/GvsSriRam/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GvsSriRam/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/GvsSriRam/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/GvsSriRam/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1217-relative-sort-array](https://github.com/GvsSriRam/DSA/tree/master/1217-relative-sort-array) |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GvsSriRam/DSA/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/GvsSriRam/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
