@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/GvsSriRam/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GvsSriRam/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GvsSriRam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/GvsSriRam/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GvsSriRam/DSA/tree/master/0217-contains-duplicate) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GvsSriRam/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/GvsSriRam/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/GvsSriRam/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GvsSriRam/DSA/tree/master/0242-valid-anagram) |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GvsSriRam/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/GvsSriRam/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GvsSriRam/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -56,5 +59,6 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/GvsSriRam/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
