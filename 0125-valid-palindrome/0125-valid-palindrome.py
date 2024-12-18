@@ -9,15 +9,13 @@ class Solution:
         r = len(s) - 1
 
         while l<=r:
-            if not self.is_valid_char(s[l]):
+            while l < r and not self.is_valid_char(s[l]):
                 l += 1
-                continue
             
-            if not self.is_valid_char(s[r]):
+            while l < r and not self.is_valid_char(s[r]):
                 r -= 1
-                continue
             
-            if not s[l].lower() == s[r].lower():
+            if s[l].lower() != s[r].lower():
                 return False
 
             l += 1
