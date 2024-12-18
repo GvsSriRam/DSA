@@ -1,24 +1,12 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        res = []
+        res = [[] for _ in range(n+1)]
+        res[0].append("")
 
-        def valid(s: str):
-            open_count = 0
-            for c in s:
-                open_count += 1 if c == "(" else -1
-
-                if open_count < 0:
-                    return False
-            return not open_count
+        for k in range(n+1):
+            for i in range(k):
+                for left in res[i]:
+                    for right in res[k-i-1]:
+                        res[k].append("("+left+")"+right)
         
-        def dfs(s: str):
-            if 2*n == len(s):
-                if valid(s):
-                    res.append(s)
-                return
-            
-            dfs(s+"(")
-            dfs(s+")")
-        
-        dfs("")
-        return res
+        return res[-1]
