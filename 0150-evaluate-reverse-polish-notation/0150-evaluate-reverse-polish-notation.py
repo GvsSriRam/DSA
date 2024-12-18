@@ -20,6 +20,6 @@ class Solution:
             elif token == '/':
                 a = stack.pop()
                 b = stack.pop()
-                stack.append(int(float(b) / a))
+                stack.append(int(b/a))
             
         return stack[0]
