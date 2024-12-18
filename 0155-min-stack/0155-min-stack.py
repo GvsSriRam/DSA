@@ -12,9 +12,8 @@ class MinStack:
             self.prefix_min_arr.append(min(val, self.prefix_min_arr[-1]))
 
     def pop(self) -> None:
-        ele = self.arr.pop()
+        self.arr.pop()
         self.prefix_min_arr.pop()
-        return ele
 
     def top(self) -> int:
         return self.arr[-1]
