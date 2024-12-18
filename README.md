@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/GvsSriRam/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/GvsSriRam/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0739-daily-temperatures](https://github.com/GvsSriRam/DSA/tree/master/0739-daily-temperatures) |
 | [1217-relative-sort-array](https://github.com/GvsSriRam/DSA/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GvsSriRam/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/GvsSriRam/DSA/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/GvsSriRam/DSA/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/GvsSriRam/DSA/tree/master/0022-generate-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/GvsSriRam/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
