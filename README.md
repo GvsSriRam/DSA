@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/GvsSriRam/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GvsSriRam/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GvsSriRam/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/GvsSriRam/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GvsSriRam/DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/GvsSriRam/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -38,6 +39,7 @@
 | [0011-container-with-most-water](https://github.com/GvsSriRam/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/GvsSriRam/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/GvsSriRam/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GvsSriRam/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Greedy
 |  |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GvsSriRam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GvsSriRam/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
