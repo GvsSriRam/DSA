@@ -19,6 +19,7 @@
 | [0347-top-k-frequent-elements](https://github.com/GvsSriRam/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0739-daily-temperatures](https://github.com/GvsSriRam/DSA/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/GvsSriRam/DSA/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/GvsSriRam/DSA/tree/master/0883-car-fleet) |
 | [1217-relative-sort-array](https://github.com/GvsSriRam/DSA/tree/master/1217-relative-sort-array) |
 ## Hash Table
@@ -51,6 +52,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/GvsSriRam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GvsSriRam/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0792-binary-search](https://github.com/GvsSriRam/DSA/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
