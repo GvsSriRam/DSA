@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/GvsSriRam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/GvsSriRam/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/GvsSriRam/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/GvsSriRam/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GvsSriRam/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GvsSriRam/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GvsSriRam/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/GvsSriRam/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GvsSriRam/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0792-binary-search](https://github.com/GvsSriRam/DSA/tree/master/0792-binary-search) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/GvsSriRam/DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/GvsSriRam/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
