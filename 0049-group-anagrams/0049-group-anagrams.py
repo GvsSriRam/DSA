@@ -1,15 +1,13 @@
-from collections import defaultdict
+from collections import Counter, defaultdict
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         res = defaultdict(list)
 
-        for string in strs:
-            count = [0]*26
-            
-            for char in string:
-                count[ord(char) - ord('a')] += 1
-            
-            res[tuple(count)].append(string)
+        for s in strs:
+            freq = [0]*26
+            for c in s:
+                freq[ord(c) - ord('a')] += 1
+            res[tuple(freq)].append(s)
         
         return list(res.values())
