@@ -1,13 +1,14 @@
+from collections import Counter
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
             return False
         
-        freq_s = dict()
-        freq_t = dict()
+        freq_s = Counter(s)
+        freq_t = Counter(t)
 
-        for char_s, char_t in zip(s, t):
-            freq_s[char_s] = freq_s.get(char_s, 0) + 1
-            freq_t[char_t] = freq_t.get(char_t, 0) + 1
+        for key, val in freq_s.items():
+            if val != freq_t.get(key, 0):
+                return False
+        return True
         
-        return freq_s == freq_t
