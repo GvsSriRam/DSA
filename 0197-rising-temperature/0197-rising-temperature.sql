@@ -1,20 +1,14 @@
 # Write your MySQL query statement below
-WITH LagFeatData AS
-(
-    SELECT
-        id,
-        recordDate,
-        temperature,
-        LAG(temperature, 1) OVER (ORDER BY recordDate) AS PrevDayTemp,
-        LAG(recordDate, 1) OVER (ORDER BY recordDate) as PrevDate
-    FROM
-        Weather
-)
 SELECT
-    id
+    w1.id
 FROM
-    LagFeatData
+    Weather w1
 WHERE
-    temperature > PrevDayTemp
-    AND
-    recordDate = DATE_ADD(prevDate, INTERVAL 1 DAY)
+    w1.temperature > (
+        SELECT
+            w2.temperature
+        FROM
+            Weather w2
+        WHERE
+            w2.recordDate = DATE_SUB(w1.recordDate, INTERVAL 1 DAY)
+    )
