@@ -36,6 +36,7 @@
 | [0217-contains-duplicate](https://github.com/GvsSriRam/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/GvsSriRam/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/GvsSriRam/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/GvsSriRam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/GvsSriRam/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1217-relative-sort-array](https://github.com/GvsSriRam/DSA/tree/master/1217-relative-sort-array) |
 ## Two Pointers
@@ -87,6 +88,7 @@
 | [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/GvsSriRam/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/GvsSriRam/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/GvsSriRam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,4 +147,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GvsSriRam/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/GvsSriRam/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
