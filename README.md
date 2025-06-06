@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GvsSriRam/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/GvsSriRam/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/GvsSriRam/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/GvsSriRam/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/GvsSriRam/DSA/tree/master/0125-valid-palindrome) |
@@ -117,6 +118,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/GvsSriRam/DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GvsSriRam/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/GvsSriRam/DSA/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/GvsSriRam/DSA/tree/master/0739-daily-temperatures) |
