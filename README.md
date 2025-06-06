@@ -191,4 +191,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GvsSriRam/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/GvsSriRam/DSA/tree/master/0226-invert-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/GvsSriRam/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
