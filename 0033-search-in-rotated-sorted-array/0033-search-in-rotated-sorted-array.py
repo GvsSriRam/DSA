@@ -3,24 +3,19 @@ class Solution:
         l = 0
         r = len(nums) - 1
 
-        while l <= r:
+        while l<=r:
             m = (l+r)//2
-
-            if nums[l] == target:
-                return l
-            elif nums[r] == target:
-                return r
-            elif nums[m] == target:
+            if nums[m]==target:
                 return m
-            elif nums[m] > nums[l] and nums[m] > target and nums[l] < target:
-                r = m-1
-            elif nums[m] > nums[l] and nums[m] < target:
-                l = m+1
-            elif nums[m] < nums[l] and nums[m] > target:
-                r = m-1
-            elif nums[m] < nums[l] and target > nums[m] and target > nums[l]:
-                r = m-1
-            else:
-                l = m+1
             
+            if nums[l] <= nums[m]: # Mid point in continuous flow area
+                if nums[l] <= target and target < nums[m]: # Target in that range of left to mid index
+                    r = m-1
+                else:
+                    l = m+1
+            else: # Mid point is in rotated area
+                if target < nums[m] or target > nums[r]: # Target in rotated area
+                    r = m-1
+                else:
+                    l = m+1
         return -1
