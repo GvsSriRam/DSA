@@ -1,23 +1,16 @@
 class Solution:
-    def is_valid_char(self, c: str) -> bool:
-        if not c.isalnum():
-            return False
-        return True
-    
     def isPalindrome(self, s: str) -> bool:
         l = 0
         r = len(s) - 1
-
-        while l<=r:
-            while l < r and not self.is_valid_char(s[l]):
+        while l<r:
+            if not s[l].isalnum():
                 l += 1
-            
-            while l < r and not self.is_valid_char(s[r]):
+                continue
+            if not s[r].isalnum():
                 r -= 1
-            
+                continue
             if s[l].lower() != s[r].lower():
                 return False
-
             l += 1
             r -= 1
         return True
