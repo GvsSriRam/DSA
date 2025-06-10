@@ -7,6 +7,6 @@ WITH RepCount AS (
 
 SELECT name
 FROM Employee e
-LEFT JOIN RepCount as r
+JOIN RepCount as r
 ON e.id = r.managerId
 WHERE r.counts>=5
